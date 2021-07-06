@@ -5,7 +5,8 @@
 - **locale**: Australian English. Wanna learn [the Inklish conlang](https://piyozr.files.wordpress.com/2017/12/inkling-language-guide.pdf) for fun (and so I can say "veemo" with intent ^u^)
 - **title, pronouns**: Mx., they/them!
 - **hobbies**: Coding, gaming, making videos, procrastinating
-- **socials**: [twitter](https://twitter.com/hyperfresh8080) | [youtube](http://bit.do/HMG-YouTube) | you're already looking at my GitHub! 😅
+- **socials**: ~~[twitter](https://twitter.com/hyperfresh8080)~~ | ~~discord: Hyperfresh#8080~~ | [youtube](http://bit.do/HMG-YouTube) \| you're already looking at my GitHub! 😅
+  - *please note: my discord and twitter are disabled or locked while I focus on other things! I'll be back soon.*   
 
 [![Hy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyperfresh&hide_rank=true&hide_border=true&show_icons=true&bg_color=90,fcf435,f5eff0,9b5bd1,2b2b2b&title_color=00ff00&icon_color=2bb573&text_color=2bb573&line_height=26.75&custom_title=Contributions%20I%27ve%20made)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperfresh&bg_color=90,5bcefa,f5a8b8,eeeeee,f5a8b8,5bcefa&hide_border=true&custom_title=Languages%20I%20code%20in&title_color=ff00ff&text_color=cc00cc&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
