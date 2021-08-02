@@ -1,4 +1,4 @@
-[*[Back]*](readme.md)
+[*[Back]*](README.md)
 # Projects
 Here are some of the things I've done on GitHub so far:
 ## CAutomator
