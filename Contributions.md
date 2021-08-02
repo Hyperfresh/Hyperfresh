@@ -1,4 +1,4 @@
-[*[Back]*](readme.md)
+[*[Back]*](README.md)
 # Contributions
 [![Hy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyperfresh&hide_rank=true&hide_border=true&show_icons=true&bg_color=231f20&title_color=00ff00&icon_color=2bb573&text_color=2bb573&line_height=26.75&custom_title=Overall%20contributions)](https://github.com/anuraghazra/github-readme-stats)
 
