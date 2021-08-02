@@ -27,9 +27,9 @@
 
 Custom-built for a server of friends I'm in, [**CAutomator**](https://github.com/Hyperfresh/CAutomator) manages user profiles, birthdays and custom roles, as well as send out bushfire alerts. You can read more on [the bot's dedicated website](https://hyperfresh.github.io/CAutomator). Previous versions of CAutomator were built on JavaScript and Python 3.8.
 
-[*See more projects...*](projects.md)
+[*See more projects...*](Projects.md)
 
 # Contributions
 ![Hy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyperfresh&hide_rank=true&hide_border=true&show_icons=true&bg_color=231f20&title_color=00ff00&icon_color=2bb573&text_color=2bb573&line_height=26.75&custom_title=Contributions%20I%27ve%20made)
 
-[*Look at where I've helped out...*](contributions.md)
+[*Look at where I've helped out...*](Contributions.md)
