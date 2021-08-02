@@ -11,9 +11,9 @@
   - *please note: my discord is disabled while I focus on other things! I'll be back soon.*   
 
 # Languages
-|||||
+|Node.js|Python|PowerShell|Web apps|
 |----|------|----------|------------------|
-![TypeScript](src/ts.png) ![JavaScript](src/js.png) | ![Python](src/py.png) | ![PowerShell](src/pwsh.png) | ![HTML](src/html.png) ![PHP](src/php.png)
+![TypeScript](src/ts.png) ![JavaScript](src/js.png) | ![Python](src/py.png) 3.8 | ![PowerShell](src/pwsh.png) Core 7 | ![HTML](src/html.png) ![PHP](src/php.png)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperfresh&hide_border=true&custom_title=My%20top%20languages&title_color=ff00ff&text_color=bb00bb&langs_count=3)
 
