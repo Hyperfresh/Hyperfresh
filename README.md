@@ -1,13 +1,13 @@
 # ![Banner](src/banner.png) 
-**Hi! I'm Paul Asencion, although my online nickname is "Hy". I'm a Filipino-Australian, aromantic asexual, non-binary [Octoling](https://splatoonwiki.org/wiki/Octoling_(playable))!**
+**Hi! I'm Paul Asencion, although my online nickname is "Hy". I'm a Filipino-Australian, aromantic asexual, non-binary [Octoling](https://splatoonwiki.org/wiki/Octoling_(playable)) on the Autism Spectrum!**
 
 *While you can see my real identity here, I'd prefer you call me by my online nickname "Hy". Thanks in advance, veemo!*
 
 ## More about me
-- **title, pronouns**: Mx., they/them
-- **locale**: I speak Australian English. *(It'd be fun to learn [the Inklish conlang](https://piyozr.files.wordpress.com/2017/12/inkling-language-guide.pdf) for fun one day!)*
-- **location**: Kaurna Country | Adelaide, South Australia
-- **socials**: [twitter](https://twitter.com/hyperfresh8080) | ~~discord: Hyperfresh#8080~~ | [youtube](http://bit.do/HMG-YouTube) \| [reddit](https://reddit.com/u/Hyperfresh8080)
+- **Title, pronouns**: Mx., they/them [*[How to address me]*](how-to-address.md)
+- **Locale**: I speak Australian English. *(It'd be fun to learn [the Inklish conlang](https://piyozr.files.wordpress.com/2017/12/inkling-language-guide.pdf) one day!)*
+- **Location**: Kaurna Country | Adelaide, South Australia
+- **Socials**: [Twitter](https://twitter.com/hyperfresh8080) | ~~Discord: Hyperfresh#8080~~ | [YouTube](http://bit.do/HMG-YouTube) \| [Reddit](https://reddit.com/u/Hyperfresh8080)
   - *please note: my discord is disabled while I focus on other things! I'll be back soon.*   
 
 # Languages
@@ -18,14 +18,16 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperfresh&hide_border=true&custom_title=My%20top%20languages&title_color=ff00ff&text_color=bb00bb&langs_count=3)
 
 # Featured project
-## CAutomator
-[![CAutomator Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyperfresh&repo=CAutomator)](https://github.com/Hyperfresh/CAutomator)
+## OzAlert
+|Lang                     |Engine / Framework|License   |
+|-------------------------|------------------|----------|
+|![JavaScript](src/js.png)|Node.js / Electron|Apache 2.0|
 
-|Lang                     |Engine / Library    |License|
-|-------------------------|--------------------|-------|
-|![TypeScript](src/ts.png)|Node.js / Discord.js|AGPLv3 |
+Inspired by [JQuake](https://jquake.net) - a Japanese earthquake monitor application - OzAlert aims to alert you of any incident at any Australian location at any given time. It has the ability to read out alerts and show these on a map as well!
 
-Custom-built for a server of friends I'm in, [**CAutomator**](https://github.com/Hyperfresh/CAutomator) manages user profiles, birthdays and custom roles, as well as send out bushfire alerts. You can read more on [the bot's dedicated website](https://hyperfresh.github.io/CAutomator). Previous versions of CAutomator were built on JavaScript and Python 3.8.
+OzAlert is currently in a private work-in-progress, and I hope to reveal more soon! The application's first public release will only cover South Australia's bushfires [info provided by the [Country Fire Service](https://cfs.sa.gov.au)], but more alerting protocols and services are to be added in the future.
+
+And of course, the application on its own is open source, which means you an take it and run wild with any additions you'd like to add. Like VS Code and Chrome, I intend to build on OzAlert and provide a free (but proprietary) OzAlert application, but the library it's based on will remain open source.
 
 [*See more projects...*](Projects.md)
 
