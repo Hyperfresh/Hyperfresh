@@ -1,10 +1,21 @@
 [*[Back]*](README.md)
 # Projects
 Here are some of the things I've done on GitHub so far:
+## OzAlert
+|Lang                     |Engine / Framework|License   |
+|-------------------------|------------------|----------|
+|![JavaScript](src/js.png)|Node.js / Electron|Apache 2.0|
+
+Inspired by [JQuake](https://jquake.net) - a Japanese earthquake monitor application - OzAlert aims to alert you of any incident at any Australian location at any given time. It has the ability to read out alerts and show these on a map as well!
+
+OzAlert is currently in a private work-in-progress, and I hope to reveal more soon! The application's first public release will only cover South Australia's bushfires [info provided by the [Country Fire Service](https://cfs.sa.gov.au)], but more alerting protocols and services are to be added in the future.
+
+And of course, the application on its own is open source, which means you an take it and run wild with any additions you'd like to add. Like VS Code and Chrome, I intend to build on OzAlert and provide a free (but proprietary) OzAlert application, but the library it's based on will remain open source.
+
 ## CAutomator
 [![CAutomator Card](https://github-readme-stats.vercel.app/api/pin/?username=Hyperfresh&repo=CAutomator)](https://github.com/Hyperfresh/CAutomator)
 
-|Lang                     |Engine / Library    |License|
+|Lang                     |Engine / Framework  |License|
 |-------------------------|--------------------|-------|
 |![TypeScript](src/ts.png)|Node.js / Discord.js|AGPLv3 |
 
