@@ -1,7 +1,7 @@
 # ![Banner](src/banner.png) 
-**Hi! I'm Paul Asencion, although my online nickname is "Hy". I'm a Filipino-Australian, aromantic asexual, non-binary [Octoling](https://splatoonwiki.org/wiki/Octoling_(playable)) on the Autism Spectrum!**
+**G'day! I'm Hyla A\*, commonly known by my online nickname "Hy". I'm a Filipino-Australian, aromantic asexual, non-binary [Octoling](https://splatoonwiki.org/wiki/Octoling_(playable)) on the Autism Spectrum!**
 
-*While you can see my real identity here, I'd prefer you call me by my online nickname "Hy". Thanks in advance, veemo!*
+*\*I've been known as "Paul Asencion" in other places of the internet. While you can see my real/previous identity here, I'd prefer you call me by my new name "Hyla" or online nickname "Hy". Thanks in advance, veemo!*
 
 ## More about me
 - **Title, pronouns**: Mx., they/them [*[How to address me]*](how-to-address.md)
