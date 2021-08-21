@@ -18,7 +18,7 @@ Once again, I use `they/them` pronouns [where others may use the more common `he
 *You may have noticed that people said "guy" above - other enby people may have a problem with this, but personally I think "guy(s)" are starting to become a gender-neutral term, so I'm fine with it. However, make sure you still check with others!*
 
 ## EXAMPLE: Titles and introduction
-"Hi! I'm *Mx.* Paul Asencion, and I go by *they/them* pronouns. Pleased to meet you!"
+"Hi! I'm *Mx.* Hyla Asencion, and I go by *they/them* pronouns. Pleased to meet you!"
 
 *Sometimes, I may also ask for the other person's name or pronouns to further spread awareness on addressing people correctly. It's also rare that people ask for my full identity (as in my legal title and last name), so most of the time I just introduce myself with my first name and pronouns.*
 
@@ -28,7 +28,7 @@ It's hard for people to get around a concept they may have just heard of. Act hu
 We're all human, and sometimes we make mistakes! It's the process of learning, and people will take time to get used to referring me and others the way they wish to be addressed [when they've been addressed differently in the past].
 
 ## Don't be afraid to correct others as well!
-If someone's not getting it right, kindly help them out! A simple "excuse me, sorry to interrupt - Hy/Paul uses they/them pronouns." Remember though, people are human, so don't snap at them for constantly getting it wrong!
+If someone's not getting it right, kindly help them out! A simple "excuse me, sorry to interrupt - Hy uses they/them pronouns." Remember though, people are human, so don't snap at them for constantly getting it wrong!
 
 ## Don't be afraid to ask!
 I don't bite! If you want to make sure that you're not offending me [thank you so much for checking!], you can shoot an email or DM on a social pipe, and I'll respond to your questions when and where I can!
