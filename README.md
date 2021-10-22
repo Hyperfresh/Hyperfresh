@@ -7,8 +7,7 @@
 - 👋🏼 **Title, pronouns**: Mx., they/them [*[How to address me]*](how-to-address.md)
 - 💬 **Locale**: I speak Australian English. *(It'd be fun to learn [the Inklish conlang](https://piyozr.files.wordpress.com/2017/12/inkling-language-guide.pdf) one day!)*
 - 📍 **Location**: Kaurna Country | Adelaide, South Australia
-- 📨 **Socials**: [Twitter](https://twitter.com/hyperfresh8080) | ~~Discord: Hyperfresh#8080~~ | [YouTube](http://bit.do/HMG-YouTube) \| [Reddit](https://reddit.com/u/Hyperfresh8080) | [🆕 Instagram](https://instagram.com/hyperfresh8080)
-  - *please note: my discord is disabled while I focus on other things! I'll be back soon.*   
+- 📨 **Socials**: [Twitter](https://twitter.com/hyperfresh8080) | [YouTube](http://bit.do/HMG-YouTube) | [Reddit](https://reddit.com/u/Hyperfresh8080) | [Instagram](https://instagram.com/hyperfresh8080) | Discord: Hyperfresh#8080 
 
 # Languages
 |Node.js|Python|PowerShell|Web apps|
