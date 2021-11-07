@@ -1,5 +1,14 @@
+# The TL;DR
+- **I'm `Mx. Hyla A`, and I use `they/them` pronouns.**
+- Please use gender-neutral conventions when addressing me. See below.
+- If you feel like it, you can refer to me by my online persona (eg, addressing me as an Octoling and using `mo/mos`. Mo would appreciate it. ^u^)
+- Don't use anything else not listed on here. If in doubt, reach out to me on a social pipe and I'll provide further explanation.
+- If you know my previous pronouns and name, *please respect me and don't use them.*
+
+-----
+
 # A brief explanation of my identity
-Hi! As you've probably gathered from my email signature [or however you got here], I openly identify as non-binary [put simply, I don't identify as either male or female.] I use `they/them` pronouns, and my *legal* title is `Mx.` [pronounced "mix"]. Yes, sometimes I identify as a humanoid octopus [known as [Octolings](https://splatoonwiki.org/wiki/Octoling_(playable)) from Splatoon!] online, but that's more of an online persona I like to imagine myself as than anything!
+Hi! As you've probably gathered from my email signature [or however you got here], I openly identify as non-binary [put simply, I don't identify as either male or female.] I use `they/them` pronouns, and my *legal* title is `Mx.` [pronounced "mix"]. Yes, sometimes I identify as a humanoid octopus [known as [Octolings](https://splatoonwiki.org/wiki/Octoling_(playable)) from Splatoon!] online - which also goes alongside my `mo/mos` neopronouns - but that's more of an online persona I like to imagine myself as than anything!
 
 When you're talking to me or about me, I'd gladly appreciate if you could address me with the right pronouns and title, as well as addressing me using gender-neutral conventions. Here's how you can help!
 
