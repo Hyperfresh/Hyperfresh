@@ -1,5 +1,5 @@
 # Hey-mo, I'm Hyla!
-**Commonly known by my online nickname "Hy". I'm a Filipino-Australian, aromantic asexual, non-binary [Octoling](https://splatoonwiki.org/wiki/Octoling_(playable)) on the Autism Spectrum!**
+**Commonly known by my online nickname "Hy", I'm a Filipino-Australian, aromantic asexual, non-binary [Octoling](https://splatoonwiki.org/wiki/Octoling_(playable)) on the Autism Spectrum!**
 
 ## More about me
 - 👋🏼 **Title, pronouns**: Mx., they/them [*[How to address me]*](how-to-address.md)
