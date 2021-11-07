@@ -2,7 +2,7 @@
 - **I'm `Mx. Hyla A`, and I use `they/them` pronouns.**
 - Please use gender-neutral conventions when addressing me. See below.
 - If you feel like it, you can refer to me by my online persona (eg, addressing me as an Octoling and using `mo/mos`. Mo would appreciate it. ^u^)
-- Don't use anything else not listed on here. If in doubt, reach out to me on a social pipe and I'll provide further explanation.
+- Don't use anything else not listed on here. If in doubt, [reach out to me on a social pipe](Socials.md) and I'll provide further explanation.
 - If you know my previous pronouns and name, *please respect me and don't use them.*
 
 -----
