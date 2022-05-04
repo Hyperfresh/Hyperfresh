@@ -1,10 +1,10 @@
 # Hey-mo, I'm Hyla!
-**Commonly known by my online nickname "Hy", I'm a Filipino-Australian, aromantic asexual, non-binary [Octoling](https://splatoonwiki.org/wiki/Octoling_(playable)) on the Autism Spectrum!**
+I make things on the internet.
 
 ## More about me
 - 👋🏼 **Title, pronouns**: Mx., they/them [*[How to address me]*](how-to-address.md)
 - 💬 **Locale**: I speak Australian English. *(It'd be fun to learn [the Inklish conlang](https://piyozr.files.wordpress.com/2017/12/inkling-language-guide.pdf) one day!)*
-- 📍 **Location**: Kaurna Country | Adelaide, South Australia
+- 📍 **Location**: unceded Kaurna Country | Adelaide, South Australia
 - 🌐 **Website**: http://hyperfre.sh
 - 📨 **Socials**: [Twitter](https://twitter.com/hyperfresh8080) | [YouTube](http://bit.do/HMG-YouTube) | [Reddit](https://reddit.com/u/Hyperfresh8080) | [Instagram](https://instagram.com/hyperfresh8080) | Discord: Hyperfresh#8080 
 
