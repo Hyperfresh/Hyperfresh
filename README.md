@@ -1,35 +1,14 @@
 # Hey-mo, I'm Hyla!
-I make things on the internet.
+I make things on the internet! Most of them are coding hobby projects, but I also make Source Filmmaker posters & irregular videos. 
 
-## More about me
-- 👋🏼 **Title, pronouns**: Mx., they/them [*[How to address me]*](how-to-address.md)
-- 💬 **Locale**: I speak Australian English. *(It'd be fun to learn [the Inklish conlang](https://piyozr.files.wordpress.com/2017/12/inkling-language-guide.pdf) one day!)*
-- 📍 **Location**: unceded Kaurna Country | Adelaide, South Australia
-- 🌐 **Website**: http://hyperfre.sh
-- 📨 **Socials**: [Twitter](https://twitter.com/hyperfresh8080) | [YouTube](http://bit.do/HMG-YouTube) | [Reddit](https://reddit.com/u/Hyperfresh8080) | [Instagram](https://instagram.com/hyperfresh8080) | Discord: Hyperfresh#8080 
+- 👋🏼 **My pronouns are** they/them (or mo/mos)
+- 💬 **I speak** Australian English
+- 📍 **I live in** unceded Kaurna land (Adelaide, SA)
+- 🌐 **You can find me on** [my website](https://www.hyperfre.sh), [my blog](https://blog.hyperfre.sh), on [Twitter](https://twitter.com/Hyperfresh8080), or on [Instagram](https://www.instagram.com/hyperfresh8080). You can also reach out to [my business email](mailto:hello@hyperfre.sh). *([What about Discord?](https://www.hyperfre.sh/so-about-discord/))*
 
-# Languages
+## Here are the languages that I can code in:
 |Node.js|Python|PowerShell|Web apps|
 |----|------|----------|------------------|
-![TypeScript](src/ts.png) ![JavaScript](src/js.png) | ![Python](src/py.png) 3.8 | ![PowerShell](src/pwsh.png) Core 7 | ![HTML](src/html.png) ![PHP](src/php.png)
+![TypeScript](src/ts.png) ![JavaScript](src/js.png) | ![Python](src/py.png) 3.x | ![PowerShell](src/pwsh.png) Core 7 | ![HTML](src/html.png) ![PHP](src/php.png)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperfresh&hide_border=true&custom_title=My%20top%20languages&title_color=ff00ff&text_color=bb00bb&langs_count=3)
-
-# Featured project
-## OzAlert
-|Lang                     |Engine / Framework|License   |
-|-------------------------|------------------|----------|
-|![JavaScript](src/js.png)|Node.js / Electron|Apache 2.0|
-
-Inspired by [JQuake](https://jquake.net) - a Japanese earthquake monitor application - OzAlert aims to alert you of any incident at any Australian location at any given time. It has the ability to read out alerts and show these on a map as well!
-
-OzAlert is currently in a private work-in-progress, and I hope to reveal more soon! The application's first public release will only cover South Australia's bushfires [info provided by the [Country Fire Service](https://cfs.sa.gov.au)], but more alerting protocols and services are to be added in the future.
-
-And of course, the application on its own is open source, which means you an take it and run wild with any additions you'd like to add. Like VS Code and Chrome, I intend to build on OzAlert and provide a free (but proprietary) OzAlert application, but the library it's based on will remain open source.
-
-[*See more projects...*](Projects.md)
-
-# Contributions
-![Hy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyperfresh&hide_rank=true&hide_border=true&show_icons=true&bg_color=231f20&title_color=00ff00&icon_color=2bb573&text_color=2bb573&line_height=26.75&custom_title=Contributions%20I%27ve%20made)
-
-[*Look at where I've helped out...*](Contributions.md)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperfresh&hide_border=true&custom_title=My%20top%20languages&title_color=ff00ff&text_color=bb00bb&langs_count=5)
