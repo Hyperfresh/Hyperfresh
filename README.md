@@ -4,7 +4,7 @@ I make things on the internet! Most of them are coding hobby projects, but I als
 - 👋🏼 **My pronouns are** they/them (or mo/mos)
 - 💬 **I speak** Australian English
 - 📍 **I live in** unceded Kaurna land (Adelaide, SA)
-- 🌐 **You can find me on** [my website](https://www.hyperfre.sh), [my blog](https://blog.hyperfre.sh), on [Twitter](https://twitter.com/Hyperfresh8080), or on [Instagram](https://www.instagram.com/hyperfresh8080). You can also reach out to [my business email](mailto:hello@hyperfre.sh).
+- 🌐 **You can find me on** [my website](https://www.hyperfre.sh), [my blog](https://blog.hyperfre.sh), on [Twitter](https://twitter.com/Hyperfresh8080), or on [Instagram](https://www.instagram.com/hyperfresh8080). You can also reach out to [my business email](mailto:hello@hyperfre.sh). *([What about Discord?](https://www.hyperfre.sh/so-about-discord/))*
 
 ## Here are the languages that I can code in:
 |Node.js|Python|PowerShell|Web apps|
