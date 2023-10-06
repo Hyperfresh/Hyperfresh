@@ -4,7 +4,7 @@ I make things on the internet! Most of them are coding hobby projects, but I als
 - 👋🏼 **My pronouns are** they/she/mo. [Check my Pronouns.page](https://en.pronouns.page/@hyperfresh8080)
 - 💬 **I speak** Australian English
 - 📍 **I live in** unceded Kaurna land (Adelaide, SA)
-- 🌐 **You can find me everywhere else on my Carrd**: https://l.hyperfre.sh
+- 🌐 **You can find me everywhere else on my Carrd**: https://links.hyperfre.sh
 
 ## Here are the languages that I can code in:
 |Node.js|Python|PowerShell|Web apps|
